@@ -1,4 +1,4 @@
-# NLWeek2
+# NLWeek#1
 Projeto Ecoleta feito através da semana NLWeek #1, promovida pela [Rocketseat](https://rocketseat.com.br/).
 
 Link para acessar a [Demo](https://nlweek1.vercel.app/)
@@ -24,7 +24,7 @@ Link para acessar a [Demo](https://nlweek1.vercel.app/)
 Este projeto foi baseado na **Next Level Week #1**, realizado pela [Rockseat](https://rocketseat.com.br/), utilizando das seguintes tecnologias:
 
 -  [ReactJS](https://reactjs.org/)
--  [Node.js](nodejs)
+-  [Node.js](https://nodejs.org/en/)
 -  [TypeScript](https://www.typescriptlang.org/)
 
 ## :bookmark_tabs: Dependências
@@ -62,7 +62,7 @@ Para clonar e executar esta aplicação, você precisará das seguintes tecnolog
 
 ```bash
 # Clonando o repositório
-$ git clone https://github.com/lucaswll/rocketseat_2020.git
+$ git clone https://github.com/lucaswll/nlweek1.git
 
 # Para cada uma das pastas (server, web and mobile), será necessário navegar até elas e utilizar dos seguintes comandos através de um terminal:
 
